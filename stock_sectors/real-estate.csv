@@ -1,0 +1,262 @@
+,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
+0,PLD,"Prologis, Inc.",125.85B,-0.70%,515972,8.02B
+1,AMT,American Tower Corporation,96.68B,-0.27%,475365,11.14B
+2,EQIX,"Equinix, Inc.",86.11B,-1.82%,110024,8.19B
+3,SPG,"Simon Property Group, Inc.",56.58B,-0.77%,275980,5.66B
+4,WELL,Welltower Inc.,52.34B,0.76%,351523,6.64B
+5,PSA,Public Storage,51.64B,0.08%,154481,4.52B
+6,CCI,Crown Castle Inc.,49.03B,-0.58%,475911,6.98B
+7,DLR,"Digital Realty Trust, Inc.",47.65B,-2.66%,761182,5.48B
+8,O,Realty Income Corporation,45.56B,0.34%,1398458,4.08B
+9,CSGP,"CoStar Group, Inc.",35.17B,0.81%,317967,2.46B
+10,EXR,Extra Space Storage Inc.,32.95B,-0.79%,300423,2.56B
+11,VICI,VICI Properties Inc.,30.36B,1.82%,1298115,3.61B
+12,CBRE,"CBRE Group, Inc.",28.57B,-0.97%,241209,31.95B
+13,AVB,"AvalonBay Communities, Inc.",26.55B,-1.21%,96111,2.77B
+14,WY,Weyerhaeuser Company,25.42B,0.66%,536949,7.67B
+15,SBAC,SBA Communications Corporation,24.18B,0.02%,259966,2.71B
+16,EQR,Equity Residential,24.07B,-0.87%,314901,2.87B
+17,IRM,Iron Mountain Incorporated,23.78B,-0.84%,359161,5.48B
+18,ARE,"Alexandria Real Estate Equities, Inc.",22.25B,-0.24%,177468,2.89B
+19,INVH,Invitation Homes Inc.,21.48B,-0.03%,413561,2.43B
+20,KSPI,Joint Stock Company Kaspi.kz,20.40B,-1.09%,86881,4.25B
+21,VTR,"Ventas, Inc.",17.88B,0.25%,1768126,4.50B
+22,SUI,"Sun Communities, Inc.",17.33B,-0.40%,290347,3.22B
+23,BEKE,KE Holdings Inc.,16.46B,3.73%,4172482,10.22B
+24,ESS,"Essex Property Trust, Inc.",16.31B,-1.01%,33298,1.67B
+25,MAA,"Mid-America Apartment Communities, Inc.",16.24B,0.04%,157426,2.15B
+26,AMH,American Homes 4 Rent,15.34B,-0.54%,304625,1.62B
+27,HST,"Host Hotels & Resorts, Inc.",14.90B,-,764174,5.31B
+28,UDR,"UDR, Inc.",13.55B,-0.68%,2759181,1.63B
+29,KIM,Kimco Realty Corporation,13.11B,-0.41%,581916,1.78B
+30,ELS,"Equity LifeStyle Properties, Inc.",13.02B,0.06%,84585,1.49B
+31,WPC,W. P. Carey Inc.,12.75B,0.99%,249708,1.74B
+32,GLPI,"Gaming and Leisure Properties, Inc.",12.58B,0.32%,254670,1.44B
+33,LAMR,Lamar Advertising Company,12.06B,-1.18%,66512,2.11B
+34,REXR,"Rexford Industrial Realty, Inc.",11.71B,-0.36%,467909,797.83M
+35,REG,Regency Centers Corporation,11.49B,-0.57%,368608,1.32B
+36,CPT,Camden Property Trust,10.82B,-1.18%,249326,1.56B
+37,CUBE,CubeSmart,10.30B,0.15%,344674,1.05B
+38,BXP,"Boston Properties, Inc.",10.09B,-0.17%,129763,3.27B
+39,NLY,"Annaly Capital Management, Inc.",9.82B,0.87%,832972,-1.44B
+40,DOC,"Healthpeak Properties, Inc.",9.50B,-0.68%,1959564,2.18B
+41,JLL,Jones Lang LaSalle Incorporated,8.94B,-0.58%,45969,20.76B
+42,EGP,"EastGroup Properties, Inc.",8.64B,-0.50%,27403,570.59M
+43,FRT,Federal Realty Investment Trust,8.54B,-0.49%,82627,1.13B
+44,NNN,NNN REIT Inc,7.80B,0.52%,239179,828.11M
+45,OHI,"Omega Healthcare Investors, Inc.",7.75B,0.59%,208517,949.74M
+46,COLD,"Americold Realty Trust, Inc.",7.48B,0.11%,341328,2.67B
+47,FSV,FirstService Corporation,7.46B,-1.21%,23094,4.33B
+48,FR,"First Industrial Realty Trust, Inc.",7.23B,-0.43%,94626,614.03M
+49,STAG,"STAG Industrial, Inc.",7.03B,0.87%,518601,707.84M
+50,RHP,"Ryman Hospitality Properties, Inc.",6.94B,-1.33%,56618,2.16B
+51,BRX,Brixmor Property Group Inc.,6.89B,0.48%,392101,1.25B
+52,AGNC,AGNC Investment Corp.,6.83B,0.82%,5912315,251.00M
+53,STWD,"Starwood Property Trust, Inc.",6.57B,0.25%,570286,2.05B
+54,CIGI,Colliers International Group Inc.,5.90B,-0.08%,20029,4.34B
+55,ADC,Agree Realty Corporation,5.81B,0.97%,246123,537.50M
+56,TRNO,Terreno Realty Corporation,5.62B,0.17%,78738,323.59M
+57,VNO,Vornado Realty Trust,5.43B,-1.83%,267417,1.81B
+58,RYN,Rayonier Inc.,5.29B,-0.77%,114952,1.06B
+59,RITM,Rithm Capital Corp.,5.28B,0.09%,625949,3.69B
+60,HR,Healthcare Realty Trust Incorporated,5.17B,-0.07%,707697,1.34B
+61,NSA,National Storage Affiliates Trust,5.17B,0.13%,515023,858.06M
+62,PECO,"Phillips Edison & Company, Inc.",4.89B,0.25%,86333,610.12M
+63,KRG,Kite Realty Group Trust,4.76B,-0.75%,300198,823.00M
+64,AIRC,Apartment Income REIT Corp.,4.65B,-0.06%,379954,820.04M
+65,KRC,Kilroy Realty Corporation,4.30B,-2.20%,122429,1.13B
+66,EPRT,"Essential Properties Realty Trust, Inc.",4.15B,1.20%,165030,359.60M
+67,APLE,"Apple Hospitality REIT, Inc.",4.09B,-0.53%,508410,1.34B
+68,HHH,Howard Hughes Holdings Inc,3.81B,-0.53%,16613,1.02B
+69,RLJ,RLJ Lodging Trust,3.78B,-0.90%,129084,1.33B
+70,IRT,"Independence Realty Trust, Inc.",3.74B,-0.56%,319804,660.98M
+71,PCH,PotlatchDeltic Corporation,3.74B,0.51%,36646,1.02B
+72,MAC,The Macerich Company,3.66B,-2.09%,299653,884.07M
+73,PK,Park Hotels & Resorts Inc.,3.62B,-,342628,2.70B
+74,CUZ,Cousins Properties Incorporated,3.60B,-0.51%,133153,802.87M
+75,BXMT,"Blackstone Mortgage Trust, Inc.",3.53B,-0.20%,251622,670.67M
+76,SLG,SL Green Realty Corp.,3.37B,-2.70%,238055,913.71M
+77,EPR,EPR Properties,3.22B,-0.23%,139908,705.67M
+78,SBRA,"Sabra Health Care REIT, Inc.",3.22B,0.43%,353348,647.51M
+79,SKT,"Tanger Factory Outlet Centers, Inc.",3.20B,-0.82%,134712,464.41M
+80,JOE,The St. Joe Company,3.12B,-0.02%,22991,389.29M
+81,TCN,Tricon Residential Inc.,3.06B,-0.27%,377721,849.78M
+82,CTRE,"CareTrust REIT, Inc.",3.04B,0.64%,252680,217.77M
+83,DBRG,"DigitalBridge Group, Inc.",3.01B,-0.76%,240167,821.38M
+84,SITC,SITE Centers Corp.,2.97B,-0.42%,172074,546.28M
+85,HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",2.95B,0.35%,157441,319.87M
+86,BNL,"Broadstone Net Lease, Inc.",2.83B,-0.14%,267576,442.89M
+87,CDP,COPT Defense Properties,2.83B,-0.61%,540810,684.98M
+88,DEI,"Douglas Emmett, Inc.",2.75B,-0.58%,256620,1.02B
+89,IIPR,"Innovative Industrial Properties, Inc.",2.74B,1.04%,30231,309.51M
+90,ESRT,"Empire State Realty Trust, Inc.",2.73B,0.93%,134489,739.57M
+91,LXP,LXP Industrial Trust,2.70B,0.66%,393179,340.50M
+92,HIW,"Highwoods Properties, Inc.",2.66B,-0.52%,140683,834.00M
+93,OUT,Outfront Media Inc.,2.66B,0.44%,2122109,1.82B
+94,NMRK,"Newmark Group, Inc.",2.61B,-1.57%,336090,2.47B
+95,VTMX,"Corporación Inmobiliaria Vesta, S.A.B. de C.V.",2.60B,-0.86%,59688,214.50M
+96,ESBA,"Empire State Realty OP, L.P.",2.60B,1.59%,201,739.57M
+97,NHI,"National Health Investors, Inc.",2.56B,0.60%,16646,319.84M
+98,MPW,"Medical Properties Trust, Inc.",2.51B,0.24%,7595834,871.80M
+99,ABR,"Arbor Realty Trust, Inc.",2.46B,0.47%,1024775,721.01M
+100,SHO,"Sunstone Hotel Investors, Inc.",2.32B,-0.97%,235696,986.48M
+101,CWK,Cushman & Wakefield plc,2.25B,-0.81%,176243,9.49B
+102,FCPT,"Four Corners Property Trust, Inc.",2.25B,0.41%,46997,250.61M
+103,UE,Urban Edge Properties,2.15B,0.12%,87107,416.92M
+104,DRH,DiamondRock Hospitality Company,2.03B,-0.83%,168690,1.07B
+105,EQC,Equity Commonwealth,2.02B,-0.16%,144607,60.52M
+106,EXPI,"eXp World Holdings, Inc.",2.00B,-0.85%,180054,4.28B
+107,OPEN,Opendoor Technologies Inc.,1.99B,-4.90%,7596170,6.95B
+108,PEB,Pebblebrook Hotel Trust,1.95B,-0.25%,272564,1.42B
+109,FOR,Forestar Group Inc.,1.87B,-1.93%,67808,1.53B
+110,AKR,Acadia Realty Trust,1.85B,0.12%,110330,338.69M
+111,GNL,"Global Net Lease, Inc.",1.78B,2.97%,462080,515.07M
+112,IVT,InvenTrust Properties Corp.,1.70B,0.40%,33764,258.68M
+113,CXW,"CoreCivic, Inc.",1.67B,-,65424,1.90B
+114,ROIC,Retail Opportunity Investments Corp.,1.65B,0.46%,154055,327.73M
+115,AAT,"American Assets Trust, Inc.",1.62B,0.76%,19646,441.16M
+116,XHR,"Xenia Hotels & Resorts, Inc.",1.62B,-1.23%,120284,1.03B
+117,JBGS,JBG SMITH Properties,1.60B,-0.32%,354699,604.20M
+118,NXRT,"NexPoint Residential Trust, Inc.",1.59B,-0.77%,61298,277.53M
+119,ARI,"Apollo Commercial Real Estate Finance, Inc.",1.57B,0.18%,115742,344.59M
+120,UNIT,Uniti Group Inc.,1.55B,-0.91%,321722,1.15B
+121,VRE,"Veris Residential, Inc.",1.54B,-0.73%,119433,279.86M
+122,RC,Ready Capital Corporation,1.52B,0.23%,368682,630.58M
+123,SAFE,Safehold Inc.,1.48B,-1.65%,36683,352.58M
+124,GTY,Getty Realty Corp.,1.47B,0.55%,28328,186.42M
+125,LTC,"LTC Properties, Inc.",1.39B,-0.15%,28589,197.24M
+126,LADR,Ladder Capital Corp,1.39B,0.27%,62802,264.21M
+127,CMTG,"Claros Mortgage Trust, Inc.",1.37B,-1.31%,18631,306.55M
+128,MMI,"Marcus & Millichap, Inc.",1.33B,-0.73%,67314,645.93M
+129,TWO,Two Harbors Investment Corp.,1.32B,0.62%,161942,31.79M
+130,BFS,"Saul Centers, Inc.",1.30B,0.57%,28185,257.21M
+131,NTST,NETSTREIT Corp.,1.28B,0.69%,229235,131.91M
+132,PMT,PennyMac Mortgage Investment Trust,1.24B,-,104882,429.02M
+133,DEA,"Easterly Government Properties, Inc.",1.21B,-0.34%,188368,287.23M
+134,ALEX,"Alexander & Baldwin, Inc.",1.21B,-0.60%,34818,208.90M
+135,ELME,Elme Communities,1.19B,-0.15%,63683,227.91M
+136,KW,"Kennedy-Wilson Holdings, Inc.",1.16B,-2.12%,825030,562.60M
+137,AHR,"American Healthcare REIT, Inc.",1.16B,0.29%,63667,1.84B
+138,MFA,"MFA Financial, Inc.",1.14B,0.36%,362655,248.45M
+139,PGRE,"Paramount Group, Inc.",1.13B,1.08%,160241,742.79M
+140,UMH,"UMH Properties, Inc.",1.13B,-0.37%,268254,220.93M
+141,AIV,Apartment Investment and Management Company,1.12B,-0.26%,122265,187.00M
+142,ALX,"Alexander's, Inc.",1.10B,0.55%,6158,224.96M
+143,SVC,Service Properties Trust,1.09B,-2.58%,148939,1.87B
+144,CIM,Chimera Investment Corporation,1.09B,1.12%,414101,252.64M
+145,FBRT,"Franklin BSP Realty Trust, Inc.",1.06B,0.23%,83042,263.95M
+146,PLYM,"Plymouth Industrial REIT, Inc.",997.26M,-0.50%,18136,199.85M
+147,EFC,Ellington Financial Inc.,976.57M,0.53%,256665,276.92M
+148,HPP,"Hudson Pacific Properties, Inc.",965.83M,-0.22%,579227,952.30M
+149,ARR,"ARMOUR Residential REIT, Inc.",950.60M,0.98%,330777,-86.22M
+150,AHH,"Armada Hoffler Properties, Inc.",938.14M,0.85%,93920,667.16M
+151,CSR,Centerspace,902.97M,-0.58%,20465,261.31M
+152,BRSP,"BrightSpire Capital, Inc.",877.40M,0.89%,219605,232.72M
+153,RDFN,Redfin Corporation,853.77M,1.27%,2109750,976.67M
+154,RWT,"Redwood Trust, Inc.",814.46M,-0.32%,264455,165.63M
+155,PDM,"Piedmont Office Realty Trust, Inc.",791.09M,0.47%,83539,577.76M
+156,BDN,Brandywine Realty Trust,775.68M,-0.45%,278153,514.65M
+157,CBL,"CBL & Associates Properties, Inc.",750.36M,-1.03%,15169,535.29M
+158,CHCT,Community Healthcare Trust Incorporated,745.04M,0.22%,18523,112.85M
+159,DX,"Dynex Capital, Inc.",731.80M,0.72%,540214,26.75M
+160,INN,"Summit Hotel Properties, Inc.",705.81M,-1.60%,187654,736.13M
+161,KREF,KKR Real Estate Finance Trust Inc.,705.27M,1.40%,131776,202.81M
+162,DHC,Diversified Healthcare Trust,672.69M,-2.87%,219663,1.41B
+163,HOUS,Anywhere Real Estate Inc.,658.51M,-0.17%,163653,5.64B
+164,NYMT,"New York Mortgage Trust, Inc.",657.80M,0.83%,110466,198.87M
+165,GMRE,Global Medical REIT Inc.,627.41M,2.36%,141144,141.05M
+166,REAX,The Real Brokerage Inc.,616.30M,-2.65%,745739,689.16M
+167,WSR,Whitestone REIT,612.20M,-0.58%,40018,144.36M
+168,TRTX,"TPG RE Finance Trust, Inc.",585.57M,0.66%,68779,116.39M
+169,FRPH,"FRP Holdings, Inc.",578.82M,-1.12%,261,41.25M
+170,PGRU,PropertyGuru Limited,542.50M,2.40%,35111,113.74M
+171,FPI,Farmland Partners Inc.,542.25M,-0.45%,162936,57.47M
+172,GOOD,Gladstone Commercial Corporation,541.03M,0.15%,82362,147.58M
+173,UHT,Universal Health Realty Income Trust,537.20M,0.05%,29505,95.58M
+174,SRG,Seritage Growth Properties,527.30M,-0.74%,313031,34.56M
+175,CLDT,Chatham Lodging Trust,515.52M,-0.42%,34786,311.11M
+176,LAND,Gladstone Land Corporation,478.65M,-,39460,90.40M
+177,LSEA,Landsea Homes Corporation,474.77M,-1.49%,98573,1.21B
+178,OLP,"One Liberty Properties, Inc.",474.38M,0.09%,45525,90.65M
+179,FPH,"Five Point Holdings, LLC",450.87M,-,16877,211.73M
+180,IVR,Invesco Mortgage Capital Inc.,442.93M,0.98%,285149,3.87M
+181,ORC,"Orchid Island Capital, Inc.",442.23M,0.58%,178684,-20.70M
+182,STRW,Strawberry Fields REIT LLC,411.81M,-,213,97.90M
+183,ACRE,Ares Commercial Real Estate Corporation,410.89M,1.32%,157383,92.93M
+184,RMR,The RMR Group Inc.,391.82M,1.38%,23279,973.25M
+185,MLP,"Maui Land & Pineapple Company, Inc.",391.11M,3.36%,610,9.05M
+186,PSTL,"Postal Realty Trust, Inc.",391.02M,0.71%,20414,63.71M
+187,CTO,"CTO Realty Growth, Inc.",389.11M,0.18%,44429,109.12M
+188,TCI,"Transcontinental Realty Investors, Inc.",337.80M,1.26%,349,49.24M
+189,NLOP,Net Lease Office Properties,332.04M,5.37%,39902,174.97M
+190,NREF,"NexPoint Real Estate Finance, Inc.",327.81M,1.17%,8518,28.68M
+191,ARL,"American Realty Investors, Inc.",320.46M,-0.15%,1857,49.76M
+192,BRT,BRT Apartments Corp.,299.77M,-0.12%,2298,92.82M
+193,REFI,"Chicago Atlantic Real Estate Finance, Inc.",294.19M,1.24%,39980,57.07M
+194,ILPT,Industrial Logistics Properties Trust,266.00M,-0.25%,30195,437.34M
+195,AOMR,"Angel Oak Mortgage, Inc.",258.39M,0.10%,6461,17.01M
+196,FLJ,FLJ Group Limited,257.96M,-0.57%,24187,-
+197,RMAX,"RE/MAX Holdings, Inc.",257.79M,1.32%,34106,325.67M
+198,AFCG,"AFC Gamma, Inc.",251.83M,2.74%,80257,64.18M
+199,NEN,New England Realty Associates LP,251.34M,-,186,72.46M
+200,GPMT,Granite Point Mortgage Trust Inc.,243.81M,0.42%,236689,-19.81M
+201,FSP,Franklin Street Properties Corp.,236.85M,-1.31%,115608,145.71M
+202,PINE,"Alpine Income Property Trust, Inc.",234.50M,1.39%,3810,45.64M
+203,OZ,"Belpointe PREP, LLC",226.40M,-2.46%,201,2.16M
+204,CLPR,Clipper Realty Inc.,213.60M,-0.40%,18349,136.35M
+205,ONL,Orion Office REIT Inc.,198.03M,-1.41%,103353,195.04M
+206,OPAD,Offerpad Solutions Inc.,197.54M,10.91%,28010,1.31B
+207,SEVN,Seven Hills Realty Trust,186.17M,-2.07%,3862,34.51M
+208,SDHC,Smith Douglas Homes Corp.,184.08M,0.16%,8553,755.35M
+209,CIO,"City Office REIT, Inc.",181.10M,-0.22%,41820,179.10M
+210,STRS,Stratus Properties Inc.,179.67M,-1.92%,3022,26.30M
+211,MITT,"AG Mortgage Investment Trust, Inc.",178.68M,-0.66%,65617,68.44M
+212,SACH,Sachem Capital Corp.,178.25M,2.88%,71165,64.59M
+213,BHR,Braemar Hotels & Resorts Inc.,173.95M,-0.49%,36326,733.43M
+214,DOUG,Douglas Elliman Inc.,172.09M,2.13%,98695,955.58M
+215,STHO,Star Holdings,158.50M,-1.85%,36295,123.05M
+216,MDV,Modiv Inc.,135.02M,-1.15%,6383,46.94M
+217,AXR,AMREP Corporation,121.24M,0.67%,1969,44.53M
+218,LFT,"Lument Finance Trust, Inc.",119.61M,0.44%,46947,28.01M
+219,EARN,Ellington Residential Mortgage REIT,116.64M,1.13%,90123,-634.00K
+220,OPI,Office Properties Income Trust,110.19M,-7.52%,510440,533.55M
+221,AJX,Great Ajax Corp.,108.61M,-0.50%,49965,-17.07M
+222,CHMI,Cherry Hill Mortgage Investment Corporation,103.43M,3.35%,88566,-21.20M
+223,MAYS,"J.W. Mays, Inc.",88.69M,-,3,22.13M
+224,ACR,ACRES Commercial Realty Corp.,86.47M,0.09%,9050,91.13M
+225,CMCT,Creative Media & Community Trust Corporation,83.77M,-0.28%,197,115.66M
+226,AIRE,reAlpha Tech Corp.,75.65M,5.92%,1138933,439.12K
+227,ASPS,Altisource Portfolio Solutions S.A.,74.66M,-5.69%,11107,145.07M
+228,DOMA,Doma Holdings Inc.,74.04M,-3.45%,2493,335.84M
+229,LRE,"Lead Real Estate Co., Ltd",72.98M,-2.25%,28606,118.70M
+230,AHT,"Ashford Hospitality Trust, Inc.",60.19M,-2.65%,141966,1.37B
+231,SOHO,Sotherly Hotels Inc.,56.96M,-2.44%,8398,173.03M
+232,FTHM,Fathom Holdings Inc.,56.10M,0.37%,6539,354.59M
+233,LOAN,"Manhattan Bridge Capital, Inc.",53.47M,2.25%,8352,9.80M
+234,SELF,"Global Self Storage, Inc.",47.14M,-0.70%,5722,12.27M
+235,WETH,Wetouch Technology Inc.,45.67M,-6.62%,160383,39.88M
+236,CHCI,"Comstock Holding Companies, Inc.",45.46M,-2.73%,3158,43.01M
+237,LODE,Comstock Inc.,43.90M,0.53%,203188,1.27M
+238,RFL,"Rafael Holdings, Inc.",42.40M,-2.89%,3972,277.00K
+239,LRHC,La Rosa Holding Corp.,25.18M,-1.13%,14101,26.32M
+240,OMH,Ohmyhome Limited,23.23M,12.50%,164240,4.37M
+241,GIPR,"Generation Income Properties, Inc.",19.67M,1.93%,29275,5.91M
+242,LEJU,Leju Holdings Limited,18.19M,-2.96%,24512,332.27M
+243,MDJH,MDJM Ltd,16.93M,-7.59%,318,29.45K
+244,NYC,American Strategic Investment Co,16.23M,-,1036,63.53M
+245,XIN,"Xinyuan Real Estate Co., Ltd.",16.22M,1.11%,1632,754.13M
+246,WHLR,"Wheeler Real Estate Investment Trust, Inc.",14.94M,5.55%,205564,102.33M
+247,IHT,InnSuites Hospitality Trust,14.69M,-3.15%,975,7.39M
+248,SQFT,"Presidio Property Trust, Inc.",14.60M,-1.94%,10707,17.63M
+249,SGD,Safe and Green Development Corporation,13.62M,-6.45%,15302990,-
+250,AEI,Alset EHome International Inc.,13.00M,5.19%,3275,21.95M
+251,GYRO,"Gyrodyne, LLC",12.99M,1.33%,33537,-
+252,MDRR,"Medalist Diversified REIT, Inc.",12.30M,2.44%,23435,10.27M
+253,TPHS,Trinity Place Holdings Inc.,9.56M,-8.56%,39058,42.33M
+254,GBR,"New Concept Energy, Inc.",5.35M,-0.33%,14842,172.00K
+255,GGE,Green Giant Inc.,5.18M,7.23%,2992372,1.80M
+256,ALBT,Avalon GloboCare Corp.,4.23M,-2.13%,58497,1.23M
+257,VINO,"Gaucho Group Holdings, Inc.",4.03M,-1.46%,4719,1.99M
+258,DUO,Fangdd Network Group Ltd.,2.30M,10.41%,66409905,35.17M
+259,PW,Power REIT,2.10M,-0.15%,5809,4.00M
+260,UK,Ucommune International Ltd,2.10M,16.40%,300035,87.50M

@@ -1,0 +1,253 @@
+,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
+0,XOM,Exxon Mobil Corporation,430.03B,0.59%,5835008,344.58B
+1,CVX,Chevron Corporation,278.37B,1.41%,2613282,200.95B
+2,SHEL,Shell plc,206.58B,-0.05%,1471306,386.20B
+3,TTE,TotalEnergies SE,153.12B,0.47%,223215,218.95B
+4,COP,Conoco Phillips,132.93B,1.99%,1466890,58.57B
+5,PBR.A,Petróleo Brasileiro S.A. - Petrobras,108.24B,-1.04%,5782327,124.47B
+6,PBR,Petróleo Brasileiro S.A. - Petrobras,107.13B,-1.49%,17006138,124.47B
+7,BP,BP p.l.c.,102.84B,0.22%,2428449,213.03B
+8,EQNR,Equinor ASA,77.02B,-1.41%,1974817,150.81B
+9,CNQ,Canadian Natural Resources Limited,76.98B,0.63%,482174,27.04B
+10,ENB,Enbridge Inc.,76.40B,0.50%,1028307,32.82B
+11,SLB,Schlumberger Limited,73.81B,2.24%,3430211,33.14B
+12,EOG,"EOG Resources, Inc.",68.86B,1.77%,1116893,24.19B
+13,MPC,Marathon Petroleum Corporation,64.88B,1.04%,672294,150.31B
+14,PSX,Phillips 66,63.89B,0.10%,667229,149.89B
+15,EPD,Enterprise Products Partners L.P.,60.92B,0.57%,1206054,49.72B
+16,PXD,Pioneer Natural Resources Company,56.89B,0.46%,330635,19.36B
+17,OXY,Occidental Petroleum Corporation,53.47B,1.18%,1870943,28.92B
+18,E,Eni S.p.A.,50.78B,-0.03%,79801,142.22B
+19,ET,Energy Transfer LP,50.62B,-0.13%,4442914,78.59B
+20,VLO,Valero Energy Corporation,49.72B,0.68%,730342,144.77B
+21,HES,Hess Corporation,45.14B,1.44%,592638,10.65B
+22,OKE,"ONEOK, Inc.",45.00B,0.17%,399147,17.68B
+23,SU,Suncor Energy Inc.,44.50B,0.90%,1191734,38.15B
+24,WMB,"The Williams Companies, Inc.",43.86B,1.64%,1913138,10.91B
+25,TRP,TC Energy Corporation,41.85B,0.99%,632892,11.98B
+26,MPLX,MPLX LP,40.97B,0.52%,374243,11.28B
+27,KMI,"Kinder Morgan, Inc.",39.57B,0.79%,3449107,15.33B
+28,WDS,Woodside Energy Group Ltd,37.98B,-1.37%,435993,13.99B
+29,LNG,"Cheniere Energy, Inc.",36.37B,0.96%,474241,20.39B
+30,IMO,Imperial Oil Limited,34.51B,1.99%,162369,38.32B
+31,CVE,Cenovus Energy Inc.,33.09B,0.85%,2772597,39.25B
+32,FANG,"Diamondback Energy, Inc.",32.71B,0.66%,220901,8.41B
+33,HAL,Halliburton Company,32.23B,1.24%,1302805,23.02B
+34,BKR,Baker Hughes Company,30.84B,2.29%,1366059,25.51B
+35,DVN,Devon Energy Corporation,29.31B,1.10%,2179856,15.26B
+36,CQP,"Cheniere Energy Partners, L.P.",23.64B,0.25%,34730,11.70B
+37,TRGP,Targa Resources Corp.,23.17B,0.74%,235891,16.06B
+38,TS,Tenaris S.A.,21.88B,0.72%,1419322,14.87B
+39,EC,Ecopetrol S.A.,21.52B,0.10%,1060412,32.91B
+40,CTRA,Coterra Energy Inc.,19.82B,0.38%,2186508,5.91B
+41,PBA,Pembina Pipeline Corporation,19.55B,0.65%,183908,6.86B
+42,CCJ,Cameco Corporation,17.95B,-1.12%,918861,1.95B
+43,EQT,EQT Corporation,16.52B,-7.76%,11734795,6.91B
+44,MRO,Marathon Oil Corporation,14.10B,1.01%,2248747,6.70B
+45,OVV,Ovintiv Inc.,13.25B,2.35%,594777,10.88B
+46,WES,"Western Midstream Partners, LP",12.89B,-0.06%,203866,3.11B
+47,PR,Permian Resources Corporation,12.29B,-0.69%,1786064,3.12B
+48,TPL,Texas Pacific Land Corporation,12.03B,1.66%,5512,631.60M
+49,PAA,"Plains All American Pipeline, L.P.",11.67B,-0.54%,326070,48.71B
+50,DINO,HF Sinclair Corporation,11.19B,0.21%,844553,31.96B
+51,CHK,Chesapeake Energy Corporation,10.73B,1.63%,912328,8.72B
+52,FTI,TechnipFMC plc,9.53B,1.18%,905184,7.82B
+53,APA,APA Corporation,9.29B,1.27%,1124406,8.19B
+54,YPF,YPF SA,8.58B,-1.76%,601418,18.76B
+55,AR,Antero Resources Corporation,8.09B,-1.24%,1656473,4.68B
+56,WFRD,Weatherford International plc,8.07B,3.12%,133939,5.14B
+57,HESM,Hess Midstream LP,8.02B,1.31%,186366,1.35B
+58,RRC,Range Resources Corporation,8.02B,-1.30%,691689,3.37B
+59,MTDR,Matador Resources Company,7.74B,0.40%,221722,2.81B
+60,SWN,Southwestern Energy Company,7.64B,1.01%,3626818,6.52B
+61,CIVI,"Civitas Resources, Inc.",7.01B,0.58%,305837,3.48B
+62,NOV,NOV Inc.,6.96B,1.47%,801441,8.58B
+63,CHRD,Chord Energy Corporation,6.70B,0.06%,833052,3.90B
+64,AM,Antero Midstream Corporation,6.48B,2.47%,676483,1.04B
+65,UGP,Ultrapar Participações S.A.,6.28B,-1.72%,433982,27.15B
+66,MUR,Murphy Oil Corporation,6.28B,2.16%,210506,3.46B
+67,NE,Noble Corporation,6.28B,2.75%,305085,2.59B
+68,VNOM,Viper Energy Partners LP,6.21B,0.85%,1347891,827.70M
+69,CSAN,Cosan S.A.,6.20B,0.68%,89697,8.15B
+70,CHX,ChampionX Corporation,6.08B,0.54%,168369,3.76B
+71,PBF,PBF Energy Inc.,5.99B,0.02%,360829,38.32B
+72,ENLC,"EnLink Midstream, LLC",5.79B,-0.31%,246294,6.90B
+73,VVV,Valvoline Inc.,5.72B,0.73%,202106,1.48B
+74,DTM,"DT Midstream, Inc.",5.65B,0.50%,80976,922.00M
+75,SUN,Sunoco LP,5.35B,-0.02%,28480,23.07B
+76,SM,SM Energy Company,5.22B,0.64%,402567,2.37B
+77,FRO,Frontline Ltd.,5.16B,-2.16%,533853,1.80B
+78,VAL,Valaris Limited,5.02B,5.07%,254789,1.78B
+79,PTEN,"Patterson-UTI Energy, Inc.",4.89B,-0.17%,1074994,4.15B
+80,ETRN,Equitrans Midstream Corporation,4.86B,1.52%,21550482,1.39B
+81,MGY,Magnolia Oil & Gas Corporation,4.82B,0.55%,962526,1.23B
+82,NFG,National Fuel Gas Company,4.68B,2.11%,233864,2.04B
+83,CPG,Crescent Point Energy Corp.,4.66B,0.53%,2517716,2.53B
+84,TDW,Tidewater Inc.,4.26B,-0.43%,272683,1.01B
+85,RIG,Transocean Ltd.,4.25B,3.43%,8991907,2.83B
+86,PAGP,"Plains GP Holdings, L.P.",4.04B,-0.63%,238988,48.71B
+87,NXE,NexGen Energy Ltd.,3.97B,0.27%,2023777,-
+88,HP,"Helmerich & Payne, Inc.",3.82B,1.43%,231433,2.83B
+89,NOG,"Northern Oil and Gas, Inc.",3.67B,1.13%,206918,2.17B
+90,EURN,Euronav NV,3.60B,-0.06%,166692,1.63B
+91,CRC,California Resources Corporation,3.59B,7.47%,800855,2.80B
+92,VIST,"Vista Energy, SAB de CV",3.58B,0.30%,152944,1.17B
+93,STNG,Scorpio Tankers Inc.,3.58B,-0.07%,110619,1.34B
+94,ERF,Enerplus Corporation,3.58B,0.22%,993474,1.69B
+95,LBRT,Liberty Energy Inc.,3.58B,-0.79%,683174,4.75B
+96,BTU,Peabody Energy Corporation,3.49B,-3.94%,1153533,4.95B
+97,SDRL,Seadrill Limited,3.35B,0.47%,200767,1.50B
+98,CVI,"CVR Energy, Inc.",3.30B,-0.60%,151627,9.25B
+99,BSM,"Black Stone Minerals, L.P.",3.28B,0.06%,87205,592.22M
+100,CNX,CNX Resources Corporation,3.25B,-0.28%,3844374,3.43B
+101,ARCH,"Arch Resources, Inc.",3.19B,-4.39%,231948,3.15B
+102,TRMD,TORM plc,3.05B,0.71%,269607,1.52B
+103,WHD,"Cactus, Inc.",3.04B,0.15%,514985,1.10B
+104,NS,NuStar Energy L.P.,3.02B,0.59%,19715,1.63B
+105,AROC,"Archrock, Inc.",2.82B,0.44%,164695,990.34M
+106,USAC,"USA Compression Partners, LP",2.76B,2.20%,381995,846.18M
+107,CEIX,CONSOL Energy Inc.,2.73B,-7.40%,176873,2.57B
+108,GPOR,Gulfport Energy Corporation,2.64B,-2.19%,217611,1.05B
+109,BTE,Baytex Energy Corp.,2.62B,-0.31%,3460333,2.04B
+110,KOS,Kosmos Energy Ltd.,2.60B,0.36%,1756551,1.70B
+111,INSW,"International Seaways, Inc.",2.55B,-2.64%,161693,1.07B
+112,ARLP,"Alliance Resource Partners, L.P.",2.55B,0.13%,120096,2.57B
+113,UEC,Uranium Energy Corp.,2.50B,2.20%,2739842,59.39M
+114,CRK,"Comstock Resources, Inc.",2.36B,-0.94%,734088,1.57B
+115,TALO,Talos Energy Inc.,2.33B,-0.16%,293018,1.46B
+116,TGS,Transportadora de Gas del Sur S.A.,2.24B,-0.33%,41323,932.68M
+117,GLNG,Golar LNG Limited,2.21B,1.86%,207725,267.74M
+118,CPE,Callon Petroleum Company,2.16B,1.19%,155287,2.34B
+119,PARR,"Par Pacific Holdings, Inc.",2.14B,-0.22%,99384,8.23B
+120,AESI,Atlas Energy Solutions Inc.,2.10B,3.97%,696298,613.96M
+121,OII,"Oceaneering International, Inc.",2.07B,-0.24%,135380,2.42B
+122,KNTK,Kinetik Holdings Inc.,2.04B,0.59%,100972,1.26B
+123,XPRO,Expro Group Holdings N.V.,2.01B,-0.85%,75880,1.51B
+124,CRGY,Crescent Energy Company,1.95B,0.18%,306836,2.38B
+125,HPK,"HighPeak Energy, Inc.",1.88B,4.58%,67778,1.11B
+126,TNK,Teekay Tankers Ltd.,1.83B,-0.93%,81119,1.36B
+127,KGS,"Kodiak Gas Services, Inc.",1.82B,0.12%,72869,850.38M
+128,VTLE,"Vital Energy, Inc.",1.81B,0.50%,201268,1.47B
+129,VET,Vermilion Energy Inc.,1.79B,3.82%,2025385,1.51B
+130,DHT,"DHT Holdings, Inc.",1.79B,-2.16%,1399515,560.56M
+131,MNR,Mach Natural Resources LP,1.73B,-2.22%,64042,817.06M
+132,DKL,"Delek Logistics Partners, LP",1.71B,0.67%,96387,1.02B
+133,DK,"Delek US Holdings, Inc.",1.70B,0.30%,430474,16.92B
+134,BORR,Borr Drilling Limited,1.65B,2.60%,1133334,771.60M
+135,KRP,"Kimbell Royalty Partners, LP",1.63B,-0.25%,138107,294.07M
+136,RES,"RPC, Inc.",1.63B,0.53%,397938,1.62B
+137,DNN,Denison Mines Corp.,1.62B,-1.09%,5280643,1.39M
+138,GLP,Global Partners LP,1.58B,-1.66%,11473,16.49B
+139,DNOW,NOW Inc.,1.55B,-1.15%,107543,2.32B
+140,LPG,Dorian LPG Ltd.,1.53B,0.53%,191007,552.96M
+141,HLX,"Helix Energy Solutions Group, Inc.",1.46B,-1.26%,363828,1.29B
+142,WKC,World Kinect Corporation,1.43B,-2.97%,88922,47.71B
+143,FLNG,FLEX LNG Ltd.,1.37B,-,70839,371.02M
+144,GEL,"Genesis Energy, L.P.",1.36B,0.98%,35972,3.18B
+145,NEXT,NextDecade Corporation,1.31B,-0.39%,157121,-
+146,DO,"Diamond Offshore Drilling, Inc.",1.26B,2.77%,1415679,1.06B
+147,DMLP,"Dorchester Minerals, L.P.",1.25B,0.14%,20007,163.80M
+148,ACDC,ProFrac Holding Corp.,1.24B,0.26%,89449,2.93B
+149,CLMT,"Calumet Specialty Products Partners, L.P.",1.20B,-0.39%,13726,4.18B
+150,NRP,Natural Resource Partners L.P.,1.17B,2.74%,49917,370.01M
+151,NVGS,Navigator Holdings Ltd.,1.10B,1.06%,33339,532.39M
+152,MRC,MRC Global Inc.,1.03B,-1.89%,148089,3.41B
+153,WTTR,"Select Energy Services, Inc.",1.01B,0.47%,380654,1.59B
+154,UUUU,Energy Fuels Inc.,996.86M,1.16%,788995,37.93M
+155,SLCA,"U.S. Silica Holdings, Inc.",918.31M,1.87%,221547,1.55B
+156,PDS,Precision Drilling Corporation,902.07M,0.24%,10817,1.46B
+157,SBR,Sabine Royalty Trust,891.38M,0.54%,13153,93.01M
+158,CAPL,CrossAmerica Partners LP,833.34M,0.05%,4984,4.39B
+159,PUMP,ProPetro Holding Corp.,807.98M,0.14%,425114,1.63B
+160,SBOW,"SilverBow Resources, Inc.",794.04M,1.85%,34561,652.36M
+161,DRQ,"Dril-Quip, Inc.",783.60M,0.92%,143942,424.06M
+162,NBR,Nabors Industries Ltd.,783.15M,2.14%,30186,3.05B
+163,EFXT,Enerflex Ltd.,776.63M,-0.64%,22257,2.38B
+164,NGL,NGL Energy Partners LP,770.10M,1.20%,37604,7.38B
+165,TELL,Tellurian Inc.,768.31M,13.26%,33539216,166.13M
+166,EU,enCore Energy Corp.,756.47M,2.57%,253375,-
+167,CLB,Core Laboratories N.V.,743.83M,1.76%,59228,509.79M
+168,VTOL,Bristow Group Inc.,719.96M,-0.70%,15233,1.30B
+169,TNP,Tsakos Energy Navigation Limited,701.64M,-0.04%,82551,860.40M
+170,VTS,"Vitesse Energy, Inc.",690.40M,2.46%,31871,233.91M
+171,NOA,North American Construction Group Ltd.,674.64M,0.56%,10358,640.25M
+172,TK,Teekay Corporation,653.42M,-0.42%,88899,1.52B
+173,LEU,Centrus Energy Corp.,614.48M,-1.70%,64693,320.20M
+174,CLNE,Clean Energy Fuels Corp.,598.26M,-1.12%,426317,425.16M
+175,NR,"Newpark Resources, Inc.",586.19M,-0.29%,150489,749.60M
+176,DEC,Diversified Energy Company PLC,566.70M,-,284982,-
+177,TXO,TXO Partners L.P.,562.72M,-0.54%,17933,380.72M
+178,REPX,"Riley Exploration Permian, Inc.",562.22M,-0.51%,19294,375.05M
+179,PBT,Permian Basin Royalty Trust,546.26M,-0.59%,29760,29.10M
+180,OBE,Obsidian Energy Ltd.,545.81M,1.56%,157541,514.59M
+181,BRY,Berry Corporation,535.86M,4.27%,249490,903.46M
+182,GPRK,GeoPark Limited,521.90M,0.76%,174037,787.86M
+183,TTI,"TETRA Technologies, Inc.",517.75M,4.03%,814060,626.26M
+184,SD,"SandRidge Energy, Inc.",514.22M,-3.46%,210764,148.64M
+185,EGY,"VAALCO Energy, Inc.",451.13M,2.80%,127140,402.50M
+186,URG,Ur-Energy Inc.,442.15M,-2.55%,1707903,17.68M
+187,OSG,"Overseas Shipholding Group, Inc.",433.24M,3.16%,183958,451.87M
+188,SGU,"Star Group, L.P.",390.96M,-,4025,1.83B
+189,WTI,"W&T Offshore, Inc.",378.89M,0.39%,1543894,532.66M
+190,SOI,"Solaris Oilfield Infrastructure, Inc.",358.93M,0.24%,78850,292.95M
+191,OIS,"Oil States International, Inc.",353.52M,-0.18%,494553,782.28M
+192,BOOM,DMC Global Inc.,345.86M,2.04%,72750,719.19M
+193,REI,"Ring Energy, Inc.",318.67M,3.21%,1125535,361.06M
+194,UROY,Uranium Royalty Corp.,310.81M,0.78%,735017,21.29M
+195,CCLP,CSI Compressco LP,307.79M,-0.46%,48128,386.13M
+196,HNRG,Hallador Energy Company,292.64M,-5.36%,104378,667.37M
+197,BROG,Brooge Energy Limited,264.11M,0.41%,290,-
+198,SJT,San Juan Basin Royalty Trust,255.88M,4.08%,152396,78.31M
+199,RNGR,"Ranger Energy Services, Inc.",253.59M,0.18%,129542,636.60M
+200,FET,"Forum Energy Technologies, Inc.",232.90M,0.03%,3812,738.86M
+201,AMPY,Amplify Energy Corp.,231.49M,15.92%,1662007,79.21B
+202,NC,"NACCO Industries, Inc.",221.12M,1.93%,2069,214.79M
+203,NGS,"Natural Gas Services Group, Inc.",216.78M,-1.03%,14933,108.77M
+204,SMLP,"Summit Midstream Partners, LP",214.21M,-1.10%,22027,417.31M
+205,EPM,Evolution Petroleum Corporation,197.39M,1.36%,83504,96.67M
+206,PNRG,PrimeEnergy Resources Corporation,187.54M,-0.22%,196,111.14M
+207,GTE,Gran Tierra Energy Inc.,185.66M,1.75%,65647,636.96M
+208,GEOS,Geospace Technologies Corporation,160.87M,-,61407,143.43M
+209,KGEI,Kolibri Global Energy Inc.,136.80M,2.13%,2162,-
+210,AMTX,"Aemetis, Inc.",132.94M,-4.46%,150663,182.69M
+211,EP,Empire Petroleum Corporation,132.32M,0.69%,4992,37.42M
+212,KLXE,"KLX Energy Services Holdings, Inc.",121.94M,-0.41%,260362,888.40M
+213,VTNR,"Vertex Energy, Inc.",120.63M,-4.65%,561056,3.18B
+214,PHX,PHX Minerals Inc.,112.48M,-0.66%,13290,50.95M
+215,EPSN,Epsilon Energy Ltd.,110.58M,-0.40%,7114,37.38M
+216,DLNG,Dynagas LNG Partners LP,104.89M,0.35%,8173,158.59M
+217,MMLP,Martin Midstream Partners L.P.,104.52M,1.53%,5281,797.96M
+218,VOC,VOC Energy Trust,102.68M,0.65%,42417,19.14M
+219,CRT,Cross Timbers Royalty Trust,99.67M,0.36%,21949,12.71M
+220,BATL,Battalion Oil Corporation,96.27M,1.38%,936,250.32M
+221,DTI,Drilling Tools International Corp.,89.90M,1.33%,3026,-
+222,SND,"Smart Sand, Inc.",83.06M,1.76%,49473,295.97M
+223,FTK,"Flotek Industries, Inc.",82.76M,-1.43%,54071,194.09M
+224,NINE,"Nine Energy Service, Inc.",78.42M,6.31%,215636,609.53M
+225,IMPP,Imperial Petroleum Inc.,77.87M,-,58642,183.73M
+226,SLNG,"Stabilis Solutions, Inc.",75.27M,-,4332,73.11M
+227,AE,"Adams Resources & Energy, Inc.",67.61M,-4.26%,1362,2.78B
+228,PFIE,"Profire Energy, Inc.",65.67M,3.62%,52326,57.80M
+229,PED,PEDEVCO Corp.,60.52M,0.92%,31478,29.97M
+230,PRT,PermRock Royalty Trust,53.77M,-0.45%,7467,9.03M
+231,NRT,North European Oil Royalty Trust,50.46M,2.65%,14180,12.68M
+232,BPT,BP Prudhoe Bay Royalty Trust,46.65M,2.83%,46039,22.11M
+233,PVL,Permianville Royalty Trust,45.21M,-0.73%,33192,15.17M
+234,DWSN,Dawson Geophysical Company,44.68M,-4.83%,5560,87.25M
+235,NCSM,"NCS Multistage Holdings, Inc.",39.12M,1.52%,4034,142.47M
+236,SDPI,"Superior Drilling Products, Inc.",27.16M,0.72%,57404,21.95M
+237,BANL,CBL International Limited,26.50M,-4.72%,17674,419.17M
+238,CKX,"CKX Lands, Inc.",26.06M,1.13%,71,1.08M
+239,USEG,U.S. Energy Corp.,25.77M,1.50%,7302,35.37M
+240,ICD,"Independence Contract Drilling, Inc.",25.65M,11.66%,10168,210.11M
+241,VIVK,"Vivakor, Inc.",23.86M,-1.09%,14035,61.79M
+242,BRN,"Barnwell Industries, Inc.",22.86M,1.75%,4774,23.91M
+243,CEI,"Camber Energy, Inc.",22.15M,2.28%,1175371,10.35M
+244,RCON,"Recon Technology, Ltd.",21.61M,-,388400,9.27M
+245,INDO,Indonesia Energy Corporation Limited,21.60M,1.41%,15588,3.61M
+246,MXC,Mexco Energy Corporation,20.68M,-0.71%,614,7.01M
+247,MTR,Mesa Royalty Trust,18.80M,0.40%,5686,4.13M
+248,HUSA,Houston American Energy Corp.,13.85M,0.79%,22846,872.18K
+249,MARPS,Marine Petroleum Trust,7.96M,-,2999,1.18M
+250,ENSV,Enservco Corporation,5.23M,1.29%,273504,22.08M
+251,TPET,Trio Petroleum Corp.,3.81M,8.05%,3465229,-
